@@ -81,7 +81,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Magv2001/Magv2001/output/snake.svg" alt="Snake animation" />
-
-###
